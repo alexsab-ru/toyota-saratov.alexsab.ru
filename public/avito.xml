@@ -451,7 +451,7 @@ Toyota Camry — это не просто средство передвижен�
 		<MaxDiscount/>
 		<Color>Черный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/MR0KB8CD4P1215922/d8558aee5235f7531cdf68f7afbab233.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/MR0KB8CD4P1215922/d4b4264abbe30fc16d8029edf10a01ed.jpg"/>
 			<Image url="https://photo.toyotasever.ru/MR0KB8CD4P1215922/4ca36eb3965119c527715e221e8a5d52.jpeg"/>
 			<Image url="https://photo.toyotasever.ru/MR0KB8CD4P1215922/9387e314886d394ab35b3a6f755a69c1.jpeg"/>
 			<Image url="https://photo.toyotasever.ru/MR0KB8CD4P1215922/cdd49f9a60c959ad1b2bbb8c2a0e70a0.jpeg"/>
@@ -498,7 +498,7 @@ Toyota Camry — это не просто средство передвижен�
 		<MaxDiscount/>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/ee01536f0cf36c38dc75fe7e5c920ed4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/cd503a06fc8dd9fa9f7fc9669b09431c.jpg"/>
 			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/0486d10eed179b1ac2ff38d8020fa8d1.jpeg"/>
 			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/19268e8ecf7e67e7651e4b0443c10b3c.jpeg"/>
 			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/50abd8c1f216896ecd93c054ab1efd7c.jpeg"/>
@@ -1260,6 +1260,35 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
+		<Id>b435c5e027f7685de36e81e539adc74c</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Новый автомобиль</Description>
+		<Price>12500000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Белый</Color>
+		<Images/>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18571879</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJAX02014178</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
 		<Id>e8b7dc4ab9d012fec763a2fdc95e454d</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -1307,35 +1336,6 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>JTJCHBJA902015127</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
-		<Id>b435c5e027f7685de36e81e539adc74c</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Новый автомобиль</Description>
-		<Price>12500000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Белый</Color>
-		<Images/>
-		<Make>Lexus</Make>
-		<Model>RX</Model>
-		<GenerationId>18183380</GenerationId>
-		<ModificationId>18183381</ModificationId>
-		<ComplectationId>18571879</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTJCHBJAX02014178</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -2159,10 +2159,10 @@ Aвтомoбиль в наличии в нашем дилерском центр
 		<ContactPhone>88452958888</ContactPhone>
 	</Ad>
 	<Ad>
-		<Id>8653e8184ce14d46214734a0c7c3fefg</Id>
+		<Id>0da1411b7f81240b7f601e2603e029ad</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<Category>Автомобили</Category>
 		<Description>Нoвый Leхus LX500d в peдкой комплектации Luxury+ (7S).
