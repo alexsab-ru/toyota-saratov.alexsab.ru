@@ -632,10 +632,10 @@ Toyota Camry — это не просто средство передвижен�
 
 ☎ Поторопитесь — идеальный автомобиль ждет именно Вас!</Description>
 		<Price>14800000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTMAAABJ3R4088996/29c9d9cd708a67285925ea8361088d6b.jpeg"/>
@@ -787,10 +787,10 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 
 Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
 		<Price>5100000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LFMJN5BF1R3110388/21b46d9646e8d9ad252e432839682e1b.jpeg"/>
@@ -860,10 +860,10 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 
 Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
 		<Price>5250000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LFMJN5BF3R3110618/b780de9f25a6bf9fe1b673c48bd91a4f.jpg"/>
@@ -937,31 +937,33 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 
 Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
 		<Price>4999000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/e490d985d73c037b7bf48014edb1813e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/5be0e6f217c954d22b07313a8f020621.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/961ce6e04040f64cfe4ef2bd2db46d3e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/da0bcb56c9ef2c74d8dd86732510a78c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/78f47563b58e5432fd763c71f246c9c6.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/1d784f4bf33e917542a93d5d2599502a.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/7779951857f179e1c3e0324afd4362ec.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/0a6f3c41ae77490203f1f01b1870c3bb.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/a30c5568b61a056764d5a55c83949ce0.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/78bc0e3f62b123a5fcab082655d82e24.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/b78a9fac5b4580d63807b121521a4527.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/b4ad57040461190d0abd641be5162dfd.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/ec1c21beafcdbe8f70aa73eebd83f27b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/ff3fdb5344ac6cbcc7c764baecaa2405.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/bd1df16c0b67b85e9e3e0014700c3513.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/8ad8c5c919fe38c8f6f059f4577ddfba.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/2e4ade9acbe3223d915a9ffc9bd9ffcd.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/c87bf4d35773f7292c98526a2a4ace50.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/7e34042fa1801ba3350dd25689b30a9c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/53c14e056e2e9f55ebe1070ec88b6b4e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/dde9b80ddee6b82ca59700c0d0ba9ede.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/fc12f99e945912fc6c08e33619ae2ee4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/2770850cd99305e21553b91a71497edf.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/dfa111ee9084f61320d086093318dc95.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/63677a64728da1736fb9223386b7d897.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/0fb92eb7f738fb8ac443d32fd19bdbde.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/3c8190180f30a90d870667f09da30b31.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/6c5cc19d127470c8ac2a3404ec3e0c1e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/106ea9951297c4fced112d92c9c8b80a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/509f08f7ca83c928987b4624ec2a4f94.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/7cc189443b9b44ef0dc00c97bdbfa245.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/05f6a5fdf754c33aa2eaaaef2142cc51.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/e69af62754a6b64a8a40bfbd3ebda6d9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/b55db54336c4f06ba104bdb7ff5de164.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/657eba57d0758e154b44e687be3ef1b9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/f69bb908a72272b7cbb632f4b20dbe2c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/c82ad0f075b5d8557ec86c999db35a6f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/5f2111ae68597162e168cd1728a9c231.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/83218ad2e9ed2c31789e92672cc94635.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/eaa202175ac9e757aadae564e30758de.jpeg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>RAV4</Model>
@@ -1009,10 +1011,10 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 
 Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
 		<Price>5199000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LFMJN5BF9R3110297/a82d5c6fd0f72f737265ff64c33780e0.jpg"/>
@@ -1084,13 +1086,34 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 ☎ Звоните прямо сейчас, чтобы узнать все детали! 
 
 Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
-		<Price>4500000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<Price>4499000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images/>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/dda18f7feb416fbd8ddab8521daa2705.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/89971e6a1a5aac5b0292105e911134db.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/4a9f4ff0b07a6e942c43641f75b5fae1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/6d6039c46b9c64c3d6fc066ac0c1ba94.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/4d37045ea01a12a93028f01b1c5a6358.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/6b80048752c05b102824fd7e9c51e3c5.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/4bd532e6a6345615f218280b0059d0ff.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/3ba310852cd0aa6cb4f0009434b022e7.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/579cb6bb1a3fa4d022baeea745a2aa18.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/7db74343b6d627f441dd9a4ba3f23185.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/2fbecac2139d17eacd1852fd6f268980.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/3feb01faca8a08bf51935326f26d49e2.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/9f7251b2e1d59e80803bc0423043e862.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/ef86ba4e22b8e903d6fe68409f28c92d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/68196edf549c72c41c0173ffad81b511.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/dfb8d344c57eaff799e7ad86d77fb724.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/1e59bf03a1e098f987618ae60fc1d919.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/5c1ba3cb668f73c73cf1ca9b53a39f0b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/25904eba1ef11421ed9678caf1d06528.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF4P3094524/8685e8a95fdc68793b834535215dced5.jpeg"/>
+		</Images>
 		<Make>Toyota</Make>
 		<Model>RAV4</Model>
 		<GenerationId>426116</GenerationId>
@@ -1104,6 +1127,58 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LFMJN5BF4P3094524</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452570707</ContactPhone>
+	</Ad>
+	<Ad>
+		<Id>e477316bfbdbb92b40e80a2fddac796d</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Хотите ощутить свободу движения и комфорт современных технологий? 
+Тогда данное предложение именно для Вас! 
+
+Toyota RAV4 — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+Основные характеристики и преимущества:
+
+✅  Современный и динамичный дизайн. 
+Эффектный внешний вид с агрессивной решеткой радиатора и выразительными светодиодными фарами не оставит никого равнодушным. RAV4 идеально вписывается как в городской, так и в загородный пейзаж.
+
+✅ Экономичность и мощность.
+2-х литровый двигатель в сочетании с вариатором обеспечивает отличную динамику и впечатляющую топливную эффективность, что делает каждую поездку приятной и экономной.
+
+✅  Просторный и комфортный интерьер.
+Комфортные сиденья с высококачественной отделкой, просторный багажник и современные мультимедийные системы делают каждую поездку удовольствием для Вас и Ваших пассажиров.
+
+✅  Передовые технологии безопасности для Вашего спокойствия на дороге.
+
+Не упустите свой шанс!
+
+☎ Звоните прямо сейчас, чтобы узнать все детали! 
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
+		<Price>5950000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Черный</Color>
+		<Images/>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18738095</ModificationId>
+		<ComplectationId>18738098</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2023</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTMR43FV40D056144</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
