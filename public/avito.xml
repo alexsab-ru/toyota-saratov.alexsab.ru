@@ -150,6 +150,55 @@ Toyota Camry — это не просто средство передвижен�
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
 	<Ad>
+		<Id>a75b15f949370daf5e531a5f1ee9d354</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Находитесь в поисках надежного и элегантного автомобиля? Ваши мечты становятся реальностью!Toyota Camry - идеальный выбор для тех, кто ценит качество, безопасность и непревзойденный комфорт в каждой поездке.✅ С первого взгляда Toyota Camry привлекает внимание своей динамичной и стильной формой, тщательно проработанной наружной отделкой и характерными чертами, которые делают его мгновенно узнаваемым на дороге.✅ Просторный салон предлагает Вам комфорт и роскошь, которые становятся незаменимыми в долгих поездках. ✅ Удобные сиденья обеспечивают отличную поддержку, а продуманные детали управления делают вождение интуитивно понятным.✅ Под капотом этого автомобиля расположен экономичный и мощный двигатель, который сочетает в себе отличную производительность и высокий уровень топливной эффективности. ✅ Автоматическая трансмиссия позволяет Вам наслаждаться плавностью хода и мгновенной реакцией на нажатие педали.Не упустите шанс стать владельцем этого потрясающего автомобиля! Toyota Camry — это не просто средство передвижения, а стильное заявление о Вас и Вашем статусе.☎ Звоните прямо сейчас для получения дополнительной информации! Этот автомобиль точно станет Вашим верным другом на дороге!</Description>
+		<Price>5480000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/a721ac0fc6b33e6074bc16b38b1c8d9a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/16808dbae83e9c527dc6fdd3c84d538c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/b05d7b8629eec947957778ce621923df.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/77dc2b714d58f478437f58d0cff1efbc.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2f1be59f78e866cc8e9c788cc02f7a2f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/c2bdad69fdd3a0f0d7b1242d6fa6499f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2550354bbde4555b0b2a85666179c10e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/ef7173bf46af61562b3e2647aa517e6b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5037de93a41eb9fc5661f17b8b13b76d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/624bc1895b62159dccd89c25e4043b0c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5a6c2b4a54aa3521fa96be341c27305b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f08349fa9384e7b5799f1dd94dec737b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/79b7a4fbe6037e7413b2c2f73b359e9f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/65cb58463f4a9c9c8c7c493e7b9df3b3.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/979a5326a248d7c3b0eab6b80338ffdf.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/25ce670100230e1b428eeed037536f93.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/108a7a8a4e6c0e6af70751f1cdddb7f4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f81d18b61cf29ed0e6a38c8f229876dd.jpeg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>Camry</Model>
+		<GenerationId>22027441</GenerationId>
+		<ModificationId>22027446</ModificationId>
+		<ComplectationId>22027451</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LVGBECEK9RG019539</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452570707</ContactPhone>
+	</Ad>
+	<Ad>
 		<Id>42b75fffd25a2930c33e7125c2b6b81d</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -205,55 +254,6 @@ Toyota Camry — это не просто средство передвижен�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LVGBECEK8RG518168</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>88452570707</ContactPhone>
-	</Ad>
-	<Ad>
-		<Id>a75b15f949370daf5e531a5f1ee9d354</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Находитесь в поисках надежного и элегантного автомобиля? Ваши мечты становятся реальностью!Toyota Camry - идеальный выбор для тех, кто ценит качество, безопасность и непревзойденный комфорт в каждой поездке.✅ С первого взгляда Toyota Camry привлекает внимание своей динамичной и стильной формой, тщательно проработанной наружной отделкой и характерными чертами, которые делают его мгновенно узнаваемым на дороге.✅ Просторный салон предлагает Вам комфорт и роскошь, которые становятся незаменимыми в долгих поездках. ✅ Удобные сиденья обеспечивают отличную поддержку, а продуманные детали управления делают вождение интуитивно понятным.✅ Под капотом этого автомобиля расположен экономичный и мощный двигатель, который сочетает в себе отличную производительность и высокий уровень топливной эффективности. ✅ Автоматическая трансмиссия позволяет Вам наслаждаться плавностью хода и мгновенной реакцией на нажатие педали.Не упустите шанс стать владельцем этого потрясающего автомобиля! Toyota Camry — это не просто средство передвижения, а стильное заявление о Вас и Вашем статусе.☎ Звоните прямо сейчас для получения дополнительной информации! Этот автомобиль точно станет Вашим верным другом на дороге!</Description>
-		<Price>5480000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/a721ac0fc6b33e6074bc16b38b1c8d9a.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/16808dbae83e9c527dc6fdd3c84d538c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/b05d7b8629eec947957778ce621923df.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/77dc2b714d58f478437f58d0cff1efbc.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2f1be59f78e866cc8e9c788cc02f7a2f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/c2bdad69fdd3a0f0d7b1242d6fa6499f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2550354bbde4555b0b2a85666179c10e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/ef7173bf46af61562b3e2647aa517e6b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5037de93a41eb9fc5661f17b8b13b76d.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/624bc1895b62159dccd89c25e4043b0c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5a6c2b4a54aa3521fa96be341c27305b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f08349fa9384e7b5799f1dd94dec737b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/79b7a4fbe6037e7413b2c2f73b359e9f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/65cb58463f4a9c9c8c7c493e7b9df3b3.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/979a5326a248d7c3b0eab6b80338ffdf.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/25ce670100230e1b428eeed037536f93.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/108a7a8a4e6c0e6af70751f1cdddb7f4.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f81d18b61cf29ed0e6a38c8f229876dd.jpeg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>Camry</Model>
-		<GenerationId>22027441</GenerationId>
-		<ModificationId>22027446</ModificationId>
-		<ComplectationId>22027451</ComplectationId>
-		<FuelType>Гибрид</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2024</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LVGBECEK9RG019539</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
@@ -2147,67 +2147,6 @@ Aвтомoбиль в пути в наш официальный дилерски
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>JTJPA7CX1R4003992</VIN>
-		<ContactPhone>88452958888</ContactPhone>
-	</Ad>
-	<Ad>
-		<Id>5b2a610d0058402d66b74a7d58647f1j</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>Нoвый Leхus NX250 в peдкой максимальной комплектации LUXURY. Автомобиль в наличии в нашем дилерском центре. Не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми! Производство Япония. Гарантия на автомобиль в нашем дилерском центре. Выгодный обмен Вашего автомобиля на новый Lexus.
-
-Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
-
-✅ Возможно оформление в кредит
-✅ Автомобиль на гарантии
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Индивидуальные предложения для каждого клиента
-
-Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</Description>
-		<Price>10290000</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
-		<InsuranceDiscount/>
-		<MaxDiscount>300000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/463e7936ee3acf188e839fefcafacc76.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/849153e8636119161f1d0844d131483c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/baed97fad882fd371720a993a0ba9284.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/b073adde0394f57b659c43323ca004c0.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/883a29413737554c1955d360a31bf482.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/05a726778195864a82df6560e508a882.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/79f5c7928c58f3b46a1bfbf07d3a076b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/1648828367248d980620ab6ab3abed29.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/c2306c21fdd0268082fd55551cb98eff.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/fc33dc7c6e2b2c933055ad096a478ab4.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/84aec1b6d4156755b63a42c001a608e9.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/7ce77d015cba564f38a2568bb24fa56c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/73bda9c2b866ca58d3c60c36f94e099f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/c295eeeecbff2357e4ea732f7fb8c053.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/3cea42be8719d9e85fe708283ff0098d.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/994cd85d942e988a779a9328cb81aee0.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/c554be4cdece04914dd31e3cb790828d.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/40b0caba42a091b5975828d1afac735f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/322bc0f0093626bab3c75961bbd213c2.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/8c6d052720d454da88e51580ded42121.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJCDBEZ302003044/61a9da3384b32b4f231ef24075dd77a5.jpg"/>
-		</Images>
-		<Make>Lexus</Make>
-		<Model>NX</Model>
-		<GenerationId>2311023</GenerationId>
-		<ModificationId>2311055</ModificationId>
-		<ComplectationId>2311030</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTJCDBEZ302003048</VIN>
 		<ContactPhone>88452958888</ContactPhone>
 	</Ad>
 	<Ad>
