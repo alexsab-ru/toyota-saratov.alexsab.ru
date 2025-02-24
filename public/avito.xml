@@ -150,6 +150,55 @@ Toyota Camry — это не просто средство передвижен�
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
 	<Ad>
+		<Id>a75b15f949370daf5e531a5f1ee9d354</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Находитесь в поисках надежного и элегантного автомобиля? Ваши мечты становятся реальностью!Toyota Camry - идеальный выбор для тех, кто ценит качество, безопасность и непревзойденный комфорт в каждой поездке.✅ С первого взгляда Toyota Camry привлекает внимание своей динамичной и стильной формой, тщательно проработанной наружной отделкой и характерными чертами, которые делают его мгновенно узнаваемым на дороге.✅ Просторный салон предлагает Вам комфорт и роскошь, которые становятся незаменимыми в долгих поездках. ✅ Удобные сиденья обеспечивают отличную поддержку, а продуманные детали управления делают вождение интуитивно понятным.✅ Под капотом этого автомобиля расположен экономичный и мощный двигатель, который сочетает в себе отличную производительность и высокий уровень топливной эффективности. ✅ Автоматическая трансмиссия позволяет Вам наслаждаться плавностью хода и мгновенной реакцией на нажатие педали.Не упустите шанс стать владельцем этого потрясающего автомобиля! Toyota Camry — это не просто средство передвижения, а стильное заявление о Вас и Вашем статусе.☎ Звоните прямо сейчас для получения дополнительной информации! Этот автомобиль точно станет Вашим верным другом на дороге!</Description>
+		<Price>5480000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/a721ac0fc6b33e6074bc16b38b1c8d9a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/16808dbae83e9c527dc6fdd3c84d538c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/b05d7b8629eec947957778ce621923df.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/77dc2b714d58f478437f58d0cff1efbc.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2f1be59f78e866cc8e9c788cc02f7a2f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/c2bdad69fdd3a0f0d7b1242d6fa6499f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2550354bbde4555b0b2a85666179c10e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/ef7173bf46af61562b3e2647aa517e6b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5037de93a41eb9fc5661f17b8b13b76d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/624bc1895b62159dccd89c25e4043b0c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5a6c2b4a54aa3521fa96be341c27305b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f08349fa9384e7b5799f1dd94dec737b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/79b7a4fbe6037e7413b2c2f73b359e9f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/65cb58463f4a9c9c8c7c493e7b9df3b3.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/979a5326a248d7c3b0eab6b80338ffdf.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/25ce670100230e1b428eeed037536f93.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/108a7a8a4e6c0e6af70751f1cdddb7f4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f81d18b61cf29ed0e6a38c8f229876dd.jpeg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>Camry</Model>
+		<GenerationId>22027441</GenerationId>
+		<ModificationId>22027446</ModificationId>
+		<ComplectationId>22027451</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LVGBECEK9RG019539</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452570707</ContactPhone>
+	</Ad>
+	<Ad>
 		<Id>42b75fffd25a2930c33e7125c2b6b81d</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -205,55 +254,6 @@ Toyota Camry — это не просто средство передвижен�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LVGBECEK8RG518168</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>88452570707</ContactPhone>
-	</Ad>
-	<Ad>
-		<Id>a75b15f949370daf5e531a5f1ee9d354</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Находитесь в поисках надежного и элегантного автомобиля? Ваши мечты становятся реальностью!Toyota Camry - идеальный выбор для тех, кто ценит качество, безопасность и непревзойденный комфорт в каждой поездке.✅ С первого взгляда Toyota Camry привлекает внимание своей динамичной и стильной формой, тщательно проработанной наружной отделкой и характерными чертами, которые делают его мгновенно узнаваемым на дороге.✅ Просторный салон предлагает Вам комфорт и роскошь, которые становятся незаменимыми в долгих поездках. ✅ Удобные сиденья обеспечивают отличную поддержку, а продуманные детали управления делают вождение интуитивно понятным.✅ Под капотом этого автомобиля расположен экономичный и мощный двигатель, который сочетает в себе отличную производительность и высокий уровень топливной эффективности. ✅ Автоматическая трансмиссия позволяет Вам наслаждаться плавностью хода и мгновенной реакцией на нажатие педали.Не упустите шанс стать владельцем этого потрясающего автомобиля! Toyota Camry — это не просто средство передвижения, а стильное заявление о Вас и Вашем статусе.☎ Звоните прямо сейчас для получения дополнительной информации! Этот автомобиль точно станет Вашим верным другом на дороге!</Description>
-		<Price>5480000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/a721ac0fc6b33e6074bc16b38b1c8d9a.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/16808dbae83e9c527dc6fdd3c84d538c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/b05d7b8629eec947957778ce621923df.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/77dc2b714d58f478437f58d0cff1efbc.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2f1be59f78e866cc8e9c788cc02f7a2f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/c2bdad69fdd3a0f0d7b1242d6fa6499f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2550354bbde4555b0b2a85666179c10e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/ef7173bf46af61562b3e2647aa517e6b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5037de93a41eb9fc5661f17b8b13b76d.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/624bc1895b62159dccd89c25e4043b0c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5a6c2b4a54aa3521fa96be341c27305b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f08349fa9384e7b5799f1dd94dec737b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/79b7a4fbe6037e7413b2c2f73b359e9f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/65cb58463f4a9c9c8c7c493e7b9df3b3.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/979a5326a248d7c3b0eab6b80338ffdf.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/25ce670100230e1b428eeed037536f93.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/108a7a8a4e6c0e6af70751f1cdddb7f4.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f81d18b61cf29ed0e6a38c8f229876dd.jpeg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>Camry</Model>
-		<GenerationId>22027441</GenerationId>
-		<ModificationId>22027446</ModificationId>
-		<ComplectationId>22027451</ComplectationId>
-		<FuelType>Гибрид</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2024</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LVGBECEK9RG019539</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
@@ -314,58 +314,6 @@ Toyota Camry — это не просто средство передвижен�
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
 	<Ad>
-		<Id>bfbafda648f6214c23930ac1a6df7ad2</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Откройте для себя новый уровень совершенства с Toyota Land Cruiser 250 — автомобиль, который воплощает в себе силу, роскошь и непревзойденные технологии. Этот культовый внедорожник, обладающий легендарной репутацией, гарантирует Вам уверенность на любых маршрутах, подчеркивая Вашу страсть к приключениям и высокому качеству. Каждый элемент дизайна Land Cruiser словно создан для того, чтобы привлечь взгляды:✅ Его массивные, но элегантные линии и мощный передний бампер создают впечатление уверенности и величия. ✅ Светодиодные фары обеспечивают отличную видимость и придают автомобилю современный вид, а широкая решетка радиатора символизирует силу и непокоримость внедорожника.Попадая внутрь, Вы ощутите атмосферу истинной роскоши:✅ Современные материалы отделки создают элегантный и теплый интерьер. ✅ Эргономика продумана до мелочей, а удобные сиденья с поддержкой для спины обеспечивают максимальный комфорт для водителя и пассажиров в любых поездках. ✅ Интуитивно понятная мультимедийная система с высоким разрешением и поддержкой современных технологий позволит Вам наслаждаться любимой музыкой и оставаться на связи.✅ Под капотом Toyota Land Cruiser скрывается мощный двигатель, который дарит невероятную динамику и отзывчивость.Вы сможете в полной мере наслаждаться каждым моментом за рулем, чувствуя себя хозяином ситуации на любом покрытии.С Toyota Land Cruiser Вы не просто выбираете автомобиль — Вы выбираете стиль жизни, полный уверенности в себе и готовности к любым испытаниям. Идеальный спутник для тех, кто стремится к исследованию незнакомых горизонтов и наслаждению каждым мгновением.Ваши лучшие приключения начинаются здесь!☎ Поторопитесь — идеальный автомобиль ждет именно Вас!</Description>
-		<Price>11750000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/cd503a06fc8dd9fa9f7fc9669b09431c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/0486d10eed179b1ac2ff38d8020fa8d1.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/19268e8ecf7e67e7651e4b0443c10b3c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/50abd8c1f216896ecd93c054ab1efd7c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/d991fd42bff5b082df927a65af44f4ed.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/4b82491fa5dec2e0f35474db69732cef.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/dc71c922e688c230da0cdbc5d050b87d.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/d05dd75ecabf7be2c31f272f71df3cc9.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/c48ec80f81a9e8b6c147df8cef7a52a9.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/26768390dfce7f248dc2e1edd87eac3e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/f321354a38b6e2be8ef714031874c6df.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/94cb0aa52b0eecb35158d89213199e3a.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/9d80a50eeaf446ddb19c40bb511b09b1.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/9373d2ab2d1ecfca7c4828e7a5647ed7.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/2038fe96b7f26d7d2a2626764d113e5f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/f5892801095705aa4a136c6bf27a0f69.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/9a8f970960530d0f01611ffd09c3e15a.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/52698797349c568940918142fc64cd72.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/0dd38e2a21e8a4bb693293d1b689fc00.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/233f28fd3e3d9e5060965f9b72af8544.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/a6f393420055a7d4e06c0d6b9d7f6bf3.jpeg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>Land Cruiser Prado</Model>
-		<GenerationId>18663001</GenerationId>
-		<ModificationId>22058769</ModificationId>
-		<ComplectationId>22073990</ComplectationId>
-		<FuelType>Дизель</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTEARCAJ2R5002640</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>88452570707</ContactPhone>
-	</Ad>
-	<Ad>
 		<Id>33b23b653410b6d86969f72c2466eb2b</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -416,6 +364,58 @@ Toyota Camry — это не просто средство передвижен�
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>JTEARCAJ1RK006955</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452570707</ContactPhone>
+	</Ad>
+	<Ad>
+		<Id>bfbafda648f6214c23930ac1a6df7ad2</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Откройте для себя новый уровень совершенства с Toyota Land Cruiser 250 — автомобиль, который воплощает в себе силу, роскошь и непревзойденные технологии. Этот культовый внедорожник, обладающий легендарной репутацией, гарантирует Вам уверенность на любых маршрутах, подчеркивая Вашу страсть к приключениям и высокому качеству. Каждый элемент дизайна Land Cruiser словно создан для того, чтобы привлечь взгляды:✅ Его массивные, но элегантные линии и мощный передний бампер создают впечатление уверенности и величия. ✅ Светодиодные фары обеспечивают отличную видимость и придают автомобилю современный вид, а широкая решетка радиатора символизирует силу и непокоримость внедорожника.Попадая внутрь, Вы ощутите атмосферу истинной роскоши:✅ Современные материалы отделки создают элегантный и теплый интерьер. ✅ Эргономика продумана до мелочей, а удобные сиденья с поддержкой для спины обеспечивают максимальный комфорт для водителя и пассажиров в любых поездках. ✅ Интуитивно понятная мультимедийная система с высоким разрешением и поддержкой современных технологий позволит Вам наслаждаться любимой музыкой и оставаться на связи.✅ Под капотом Toyota Land Cruiser скрывается мощный двигатель, который дарит невероятную динамику и отзывчивость.Вы сможете в полной мере наслаждаться каждым моментом за рулем, чувствуя себя хозяином ситуации на любом покрытии.С Toyota Land Cruiser Вы не просто выбираете автомобиль — Вы выбираете стиль жизни, полный уверенности в себе и готовности к любым испытаниям. Идеальный спутник для тех, кто стремится к исследованию незнакомых горизонтов и наслаждению каждым мгновением.Ваши лучшие приключения начинаются здесь!☎ Поторопитесь — идеальный автомобиль ждет именно Вас!</Description>
+		<Price>11750000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/cd503a06fc8dd9fa9f7fc9669b09431c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/0486d10eed179b1ac2ff38d8020fa8d1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/19268e8ecf7e67e7651e4b0443c10b3c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/50abd8c1f216896ecd93c054ab1efd7c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/d991fd42bff5b082df927a65af44f4ed.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/4b82491fa5dec2e0f35474db69732cef.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/dc71c922e688c230da0cdbc5d050b87d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/d05dd75ecabf7be2c31f272f71df3cc9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/c48ec80f81a9e8b6c147df8cef7a52a9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/26768390dfce7f248dc2e1edd87eac3e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/f321354a38b6e2be8ef714031874c6df.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/94cb0aa52b0eecb35158d89213199e3a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/9d80a50eeaf446ddb19c40bb511b09b1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/9373d2ab2d1ecfca7c4828e7a5647ed7.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/2038fe96b7f26d7d2a2626764d113e5f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/f5892801095705aa4a136c6bf27a0f69.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/9a8f970960530d0f01611ffd09c3e15a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/52698797349c568940918142fc64cd72.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/0dd38e2a21e8a4bb693293d1b689fc00.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/233f28fd3e3d9e5060965f9b72af8544.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2R5002640/a6f393420055a7d4e06c0d6b9d7f6bf3.jpeg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>Land Cruiser Prado</Model>
+		<GenerationId>18663001</GenerationId>
+		<ModificationId>22058769</ModificationId>
+		<ComplectationId>22073990</ComplectationId>
+		<FuelType>Дизель</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTEARCAJ2R5002640</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
