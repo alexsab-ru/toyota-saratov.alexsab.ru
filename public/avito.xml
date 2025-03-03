@@ -222,6 +222,55 @@ Toyota Camry — это не просто средство передвижен�
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
 	<Ad>
+		<Id>a75b15f949370daf5e531a5f1ee9d354</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Находитесь в поисках надежного и элегантного автомобиля? Ваши мечты становятся реальностью!Toyota Camry - идеальный выбор для тех, кто ценит качество, безопасность и непревзойденный комфорт в каждой поездке.✅ С первого взгляда Toyota Camry привлекает внимание своей динамичной и стильной формой, тщательно проработанной наружной отделкой и характерными чертами, которые делают его мгновенно узнаваемым на дороге.✅ Просторный салон предлагает Вам комфорт и роскошь, которые становятся незаменимыми в долгих поездках. ✅ Удобные сиденья обеспечивают отличную поддержку, а продуманные детали управления делают вождение интуитивно понятным.✅ Под капотом этого автомобиля расположен экономичный и мощный двигатель, который сочетает в себе отличную производительность и высокий уровень топливной эффективности. ✅ Автоматическая трансмиссия позволяет Вам наслаждаться плавностью хода и мгновенной реакцией на нажатие педали.Не упустите шанс стать владельцем этого потрясающего автомобиля! Toyota Camry — это не просто средство передвижения, а стильное заявление о Вас и Вашем статусе.☎ Звоните прямо сейчас для получения дополнительной информации! Этот автомобиль точно станет Вашим верным другом на дороге!</Description>
+		<Price>5480000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/a721ac0fc6b33e6074bc16b38b1c8d9a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/16808dbae83e9c527dc6fdd3c84d538c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/b05d7b8629eec947957778ce621923df.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/77dc2b714d58f478437f58d0cff1efbc.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2f1be59f78e866cc8e9c788cc02f7a2f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/c2bdad69fdd3a0f0d7b1242d6fa6499f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2550354bbde4555b0b2a85666179c10e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/ef7173bf46af61562b3e2647aa517e6b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5037de93a41eb9fc5661f17b8b13b76d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/624bc1895b62159dccd89c25e4043b0c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5a6c2b4a54aa3521fa96be341c27305b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f08349fa9384e7b5799f1dd94dec737b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/79b7a4fbe6037e7413b2c2f73b359e9f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/65cb58463f4a9c9c8c7c493e7b9df3b3.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/979a5326a248d7c3b0eab6b80338ffdf.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/25ce670100230e1b428eeed037536f93.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/108a7a8a4e6c0e6af70751f1cdddb7f4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f81d18b61cf29ed0e6a38c8f229876dd.jpeg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>Camry</Model>
+		<GenerationId>22027441</GenerationId>
+		<ModificationId>22027446</ModificationId>
+		<ComplectationId>22027451</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LVGBECEK9RG019539</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452570707</ContactPhone>
+	</Ad>
+	<Ad>
 		<Id>42b75fffd25a2930c33e7125c2b6b81d</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -277,55 +326,6 @@ Toyota Camry — это не просто средство передвижен�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LVGBECEK8RG518168</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>88452570707</ContactPhone>
-	</Ad>
-	<Ad>
-		<Id>a75b15f949370daf5e531a5f1ee9d354</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Находитесь в поисках надежного и элегантного автомобиля? Ваши мечты становятся реальностью!Toyota Camry - идеальный выбор для тех, кто ценит качество, безопасность и непревзойденный комфорт в каждой поездке.✅ С первого взгляда Toyota Camry привлекает внимание своей динамичной и стильной формой, тщательно проработанной наружной отделкой и характерными чертами, которые делают его мгновенно узнаваемым на дороге.✅ Просторный салон предлагает Вам комфорт и роскошь, которые становятся незаменимыми в долгих поездках. ✅ Удобные сиденья обеспечивают отличную поддержку, а продуманные детали управления делают вождение интуитивно понятным.✅ Под капотом этого автомобиля расположен экономичный и мощный двигатель, который сочетает в себе отличную производительность и высокий уровень топливной эффективности. ✅ Автоматическая трансмиссия позволяет Вам наслаждаться плавностью хода и мгновенной реакцией на нажатие педали.Не упустите шанс стать владельцем этого потрясающего автомобиля! Toyota Camry — это не просто средство передвижения, а стильное заявление о Вас и Вашем статусе.☎ Звоните прямо сейчас для получения дополнительной информации! Этот автомобиль точно станет Вашим верным другом на дороге!</Description>
-		<Price>5480000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/a721ac0fc6b33e6074bc16b38b1c8d9a.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/16808dbae83e9c527dc6fdd3c84d538c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/b05d7b8629eec947957778ce621923df.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/77dc2b714d58f478437f58d0cff1efbc.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2f1be59f78e866cc8e9c788cc02f7a2f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/c2bdad69fdd3a0f0d7b1242d6fa6499f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/2550354bbde4555b0b2a85666179c10e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/ef7173bf46af61562b3e2647aa517e6b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5037de93a41eb9fc5661f17b8b13b76d.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/624bc1895b62159dccd89c25e4043b0c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/5a6c2b4a54aa3521fa96be341c27305b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f08349fa9384e7b5799f1dd94dec737b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/79b7a4fbe6037e7413b2c2f73b359e9f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/65cb58463f4a9c9c8c7c493e7b9df3b3.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/979a5326a248d7c3b0eab6b80338ffdf.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/25ce670100230e1b428eeed037536f93.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/108a7a8a4e6c0e6af70751f1cdddb7f4.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK9RG019539/f81d18b61cf29ed0e6a38c8f229876dd.jpeg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>Camry</Model>
-		<GenerationId>22027441</GenerationId>
-		<ModificationId>22027446</ModificationId>
-		<ComplectationId>22027451</ComplectationId>
-		<FuelType>Гибрид</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2024</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LVGBECEK9RG019539</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
@@ -882,80 +882,6 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
 	<Ad>
-		<Id>8df4c1d2e8224ff61225ece52efbb8e1</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Хотите ощутить  свободу движения и комфорт современных технологий ? 
-Тогда данное предложение именно для Вас! 
-
-Toyota RAV4 — кроссовер, который сочетает в себе надежность, мощь и стиль.
-
-Основные характеристики и преимущества:
-
-✅  Современный и динамичный дизайн. 
-Эффектный внешний вид с агрессивной решеткой радиатора и выразительными светодиодными фарами не оставит никого равнодушным. RAV4 идеально вписывается как в городской, так и в загородный пейзаж.
-
-✅ Экономичность и мощность.
-2-х литровый двигатель в сочетании с вариатором обеспечивает отличную динамику и впечатляющую топливную эффективность, что делает каждую поездку приятной и экономной.
-
-✅  Просторный и комфортный интерьер.
-Комфортные сиденья с высококачественной отделкой, просторный багажник и современные мультимедийные системы делают каждую поездку удовольствием для Вас и Ваших пассажиров.
-
-✅  Передовые технологии безопасности для Вашего спокойствия на дороге.
-
-Не упустите свой шанс!
-
-☎ Звоните прямо сейчас, чтобы узнать все детали! 
-
-Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
-		<Price>4999000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount/>
-		<MaxDiscount>200000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/53c14e056e2e9f55ebe1070ec88b6b4e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/dde9b80ddee6b82ca59700c0d0ba9ede.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/fc12f99e945912fc6c08e33619ae2ee4.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/2770850cd99305e21553b91a71497edf.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/dfa111ee9084f61320d086093318dc95.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/63677a64728da1736fb9223386b7d897.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/0fb92eb7f738fb8ac443d32fd19bdbde.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/3c8190180f30a90d870667f09da30b31.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/6c5cc19d127470c8ac2a3404ec3e0c1e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/106ea9951297c4fced112d92c9c8b80a.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/509f08f7ca83c928987b4624ec2a4f94.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/7cc189443b9b44ef0dc00c97bdbfa245.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/05f6a5fdf754c33aa2eaaaef2142cc51.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/e69af62754a6b64a8a40bfbd3ebda6d9.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/b55db54336c4f06ba104bdb7ff5de164.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/657eba57d0758e154b44e687be3ef1b9.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/f69bb908a72272b7cbb632f4b20dbe2c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/c82ad0f075b5d8557ec86c999db35a6f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/5f2111ae68597162e168cd1728a9c231.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/83218ad2e9ed2c31789e92672cc94635.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/eaa202175ac9e757aadae564e30758de.jpeg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>RAV4</Model>
-		<GenerationId>426116</GenerationId>
-		<ModificationId>18374280</ModificationId>
-		<ComplectationId>22146627</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LFMJN5BF6R3110175</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>88452570707</ContactPhone>
-	</Ad>
-	<Ad>
 		<Id>15181d3d5baf23e07ee65eca6c643c11</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -1028,6 +954,80 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LFMJN5BF9R3110297</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452570707</ContactPhone>
+	</Ad>
+	<Ad>
+		<Id>8df4c1d2e8224ff61225ece52efbb8e1</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Хотите ощутить  свободу движения и комфорт современных технологий ? 
+Тогда данное предложение именно для Вас! 
+
+Toyota RAV4 — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+Основные характеристики и преимущества:
+
+✅  Современный и динамичный дизайн. 
+Эффектный внешний вид с агрессивной решеткой радиатора и выразительными светодиодными фарами не оставит никого равнодушным. RAV4 идеально вписывается как в городской, так и в загородный пейзаж.
+
+✅ Экономичность и мощность.
+2-х литровый двигатель в сочетании с вариатором обеспечивает отличную динамику и впечатляющую топливную эффективность, что делает каждую поездку приятной и экономной.
+
+✅  Просторный и комфортный интерьер.
+Комфортные сиденья с высококачественной отделкой, просторный багажник и современные мультимедийные системы делают каждую поездку удовольствием для Вас и Ваших пассажиров.
+
+✅  Передовые технологии безопасности для Вашего спокойствия на дороге.
+
+Не упустите свой шанс!
+
+☎ Звоните прямо сейчас, чтобы узнать все детали! 
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
+		<Price>4999000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/53c14e056e2e9f55ebe1070ec88b6b4e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/dde9b80ddee6b82ca59700c0d0ba9ede.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/fc12f99e945912fc6c08e33619ae2ee4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/2770850cd99305e21553b91a71497edf.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/dfa111ee9084f61320d086093318dc95.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/63677a64728da1736fb9223386b7d897.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/0fb92eb7f738fb8ac443d32fd19bdbde.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/3c8190180f30a90d870667f09da30b31.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/6c5cc19d127470c8ac2a3404ec3e0c1e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/106ea9951297c4fced112d92c9c8b80a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/509f08f7ca83c928987b4624ec2a4f94.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/7cc189443b9b44ef0dc00c97bdbfa245.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/05f6a5fdf754c33aa2eaaaef2142cc51.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/e69af62754a6b64a8a40bfbd3ebda6d9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/b55db54336c4f06ba104bdb7ff5de164.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/657eba57d0758e154b44e687be3ef1b9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/f69bb908a72272b7cbb632f4b20dbe2c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/c82ad0f075b5d8557ec86c999db35a6f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/5f2111ae68597162e168cd1728a9c231.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/83218ad2e9ed2c31789e92672cc94635.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6R3110175/eaa202175ac9e757aadae564e30758de.jpeg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18374280</ModificationId>
+		<ComplectationId>22146627</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJN5BF6R3110175</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
