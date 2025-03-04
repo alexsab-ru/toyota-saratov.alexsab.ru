@@ -605,7 +605,7 @@ Toyota Camry — это не просто средство передвижен�
 Ваши лучшие приключения начинаются здесь!
 
 ☎ Поторопитесь — идеальный автомобиль ждет именно Вас!</Description>
-		<Price>14550000</Price>
+		<Price>16350000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
@@ -1254,35 +1254,6 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 		<ContactPhone>88452570707</ContactPhone>
 	</Ad>
 <Ad>
-		<Id>8c18990ff27033fa065f345d75860b64</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Новый автомобиль</Description>
-		<Price>11900000</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount/>
-		<MaxDiscount>500000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images/>
-		<Make>Lexus</Make>
-		<Model>RX</Model>
-		<GenerationId>18183380</GenerationId>
-		<ModificationId>18183381</ModificationId>
-		<ComplectationId>18614915</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTJCHBJA102016529</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>b7aaf214d54f3a450ff563acd11398be</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -1330,35 +1301,6 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>JTJCHBJA602012105</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
-		<Id>b435c5e027f7685de36e81e539adc74c</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Новый автомобиль</Description>
-		<Price>12500000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Белый</Color>
-		<Images/>
-		<Make>Lexus</Make>
-		<Model>RX</Model>
-		<GenerationId>18183380</GenerationId>
-		<ModificationId>18183381</ModificationId>
-		<ComplectationId>18571879</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTJCHBJAX02014178</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
